@@ -1,0 +1,4 @@
+{
+    "name": "ExampleClient",
+    "main": "com.example.bgfx.client.ExampleClient"
+}
