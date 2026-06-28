@@ -1,0 +1,4 @@
+{
+    "name": "ExamplePlugin",
+    "main": "com.example.bgfx.plugin.ExamplePlugin"
+}
